@@ -1,2 +1,2 @@
 # HelloWorld
-Java project gitHub test.
+Java project github test.
